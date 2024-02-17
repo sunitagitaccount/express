@@ -111,7 +111,7 @@ Members can be added to the TC at any time. Any TC member can nominate another c
 to the TC and the TC uses its standard consensus seeking process to evaluate whether or
 not to add this new member. The TC will consist of a minimum of 3 active members and a
 maximum of 10. If the TC should drop below 5 members the active TC members should nominate
-someone new. If a TC member is stepping down, they are encouraged (but not require) to
+someone new. If a TC member is stepping down, they are encouraged (but not required) to
 nominate someone to take their place.
 
 TC members will be added as admin's on the Github orgs, npm orgs, and other resources as
